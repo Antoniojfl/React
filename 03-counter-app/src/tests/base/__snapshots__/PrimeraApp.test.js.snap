@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <PrimeraApp /> debe de mostrar el mensaje "Hola Mundo" con enzyme  1`] = `
+<Fragment>
+  <h1>
+    Hola Mundo !!!
+  </h1>
+  <h1>
+    Imprimiendo un prop: 
+    Hola soy Goku
+  </h1>
+  <h1>
+    Puedo imprimir un string: 
+    Antonio
+  </h1>
+  <h1>
+    Puedo imprimir un number: 
+    28
+  </h1>
+  <h1>
+    NO puedo imprimir un boolean: 
+    <Component />
+  </h1>
+  <h1>
+    Puedo imprimir un decimal: 
+    12.26
+  </h1>
+  <pre>
+    Puedo imprimir un objeto: 
+    {
+   "name": "Antonio",
+   "age": 28,
+   "gender": "Male"
+}
+  </pre>
+  <p>
+    Imprimiendo un defaultProp: 
+    Esta es una forma de poner default props
+  </p>
+  <h1>
+    Mi primera aplicacion
+  </h1>
+</Fragment>
+`;

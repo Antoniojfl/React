@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en counter app Debera de hacer match con un snapshot  1`] = `
+<Fragment>
+  <h1>
+    CounterApp
+  </h1>
+  <h3 />
+  <h2>
+    0
+  </h2>
+  <button
+    onClick={[Function]}
+  >
+    +1
+  </button>
+  <br />
+  <button
+    onClick={[Function]}
+  >
+    +1 Count
+  </button>
+  <br />
+  <button
+    onClick={[Function]}
+  >
+    +1 Count otra forma
+  </button>
+  <br />
+  <button
+    onClick={[Function]}
+  >
+    -1 Count 
+  </button>
+  <br />
+  <button
+    onClick={[Function]}
+  >
+    Reset Count 
+  </button>
+</Fragment>
+`;
